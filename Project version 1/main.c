@@ -73,7 +73,7 @@ int main(void)
            108, "Leather Wallet", "Cafeteria", "Found", "Personal", "High");
 
     printf("%-6d %-20s %-15s %-10s %-15s %-10s\n",
-           109, "Scientific Calculator", "NAC 206", "Found", "Electronics", "Medium");
+           109, "Scientific Calculator", "Study Hall", "Found", "Electronics", "Medium");
 
     printf("%-6d %-20s %-15s %-10s %-15s %-10s\n",
            110, "USB Flash Drive", "Library", "Found", "Electronics", "Medium");
@@ -157,7 +157,7 @@ int main(void)
 
     printf("Record ID : 109\n");
     printf("Item      : Scientific Calculator\n");
-    printf("Location  : NAC 206\n");
+    printf("Location  : Study Hall\n");
     printf("Status    : FOUND\n");
     printf("Category  : Electronics\n");
     printf("Priority  : Medium\n\n");
