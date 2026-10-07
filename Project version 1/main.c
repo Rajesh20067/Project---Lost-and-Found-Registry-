@@ -7,18 +7,16 @@ int main(void)
 
     // 1.TITLE 
     printf("================================================================================\n");
-    printf("              NORTH SOUTH UNIVERSITY                           \n");
-    printf("              LOST & FOUND REGISTRY                       \n");
-    
+     printf("              LOST & FOUND REGISTRY           \n");
     printf("=========================================================================\n\n");
 
     // 2.SYSTEM INFORMATION
    printf("Institution\t: North South University\n");
 printf("Department\t:Lost and Found\n");
-printf("System\t\t:Lost & Found Registry\n");
-printf("Location\t:Bashundhara,Dhaka\n\n");
+printf("System\t\t:Lost and Found Registry\n" );
+
    
-    printf("=====================================================================\n");
+    printf("========================================================================\n");
 printf("                      SYSTEM MENU\n");
     printf("==========================================================================\n\n");
 
@@ -57,11 +55,11 @@ printf("107\tAirPods Case\t\tLibrary \tLost \tElectronics\t\n");
 
 printf("108\t Leather Wallet\t\tCafeteria\t Found\tPersonal\t\n");
 
-printf("109\t Calculator\t\tStudy Hall \tFound\tElectronics\t \n");
+printf("109\tCalculator\t\tStudy Hall \tFound\tElectronics\t \n");
 
-printf("110\tbook\t\t\tLibrary\t\tFound\tElectronics \t \n");
+printf("110\t book\t\t\tLibrary\t\tFound\tElectronics \t \n");
 
-printf("111\tUmbrella\t\tGate 2\t\tFound\tPersonal\t\n");
+printf("111\t Umbrella\t\tGate 2\t\tFound\t Personal\t\n");
 
 printf("112\tWatch\t\t\tAud 8\t\tFound\tAccessories\t\n");
 
@@ -74,9 +72,9 @@ printf("Found Items  \t\t\t 6\n");
 
 
 // 7.IMPORTANT INFORMATION
-    printf("==========================================================================\n");
-    printf("                  IMPORTANT INFORMATION                        \n");
-    printf("==============================================================================\n\n");
+    printf("=================================================================\n");
+    printf("                  IMPORTANT INFORMATION \n");
+    printf("================================================================\n\n");
 
     printf("1.Lost items should be reported asap.\n");
     printf("2.Found items should be submitted to Student Affairs.\n");
@@ -85,13 +83,13 @@ printf("Found Items  \t\t\t 6\n");
 
 
     // 8.CONTACT INFORMATION DETAILS
-    printf("===================================================================\n");
-    printf("                 CONTACT INFORMATION                       \n");
-    printf("=======================================================================\n\n");
+    printf("=====================================================\n");
+    printf("                CONTACT INFORMATION\n");
+    printf("=========================================================\n\n");
 
-   printf("Department\t: lost and found \n");
+   printf("Department\t:lost and found \n");
 printf("Office\t: Administration Building\n");
-printf("Email\t: lostandfound@northsouth.edu\n");
+printf("Email\t:lostandfound@northsouth.edu\n");
 printf("Phone\t: +880665778899\n");
 
     return 0;
