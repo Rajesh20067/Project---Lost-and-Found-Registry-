@@ -71,26 +71,26 @@ printf("112\tWatch\t\t\tAud 8\t\tFound\tAccessories\t\n");
 printf("113\tStudent ID Card\t\t NAC 208\tFound\tDocument\t\n\n");
 
 
-printf("Total Records Displayed : 13\n");
-printf("Lost Items              : 7\n");
-printf("Found Items             : 6\n");
+printf("Total Records Displayed\t\t13\n");
+printf("Lost Items  \t\t\t7\n");
+printf("Found Items  \t\t\t 6\n");
 
 
 // 7.IMPORTANT INFORMATION
     printf("==========================================================================\n");
     printf("                  IMPORTANT INFORMATION                        \n");
-    printf("==============================================================================\n");
+    printf("==============================================================================\n\n");
 
     printf("1.Lost items should be reported asap.\n");
     printf("2.Found items should be submitted to Student Affairs.\n");
     printf("3.Students must provide valid identification to claim items.\n");
-    printf("4.Unclaimed items will be handled accorrding to university policy.\n");
+    printf("4.Unclaimed items will be handled accorrding to university policy.\n\n");
 
 
     // 8.CONTACT INFORMATION DETAILS
     printf("===================================================================\n");
     printf("                 CONTACT INFORMATION                       \n");
-    printf("=======================================================================\n");
+    printf("=======================================================================\n\n");
 
    printf("Department\t: lost and found \n");
 printf("Office\t: Administration Building\n");
