@@ -8,19 +8,18 @@ int main(void)
     // 1.TITLE 
     printf("================================================================================\n");
     printf("              NORTH SOUTH UNIVERSITY                           \n");
-    printf("              LOST & FOUND REGISTRY                        \n");
+    printf("              LOST & FOUND REGISTRY                       \n");
     
     printf("=========================================================================\n\n");
 
     // 2.SYSTEM INFORMATION
-    printf("Institution : North South University\n");
-    printf("Department  : Lost and Found\n");
-    printf("System      : Campus Lost & Found Registry\n");
-    printf("Location    : Bashundhara,Dhaka\n\n");
-
-    // 3.MENU OF OPERATIONS
+   printf("Institution\t: North South University\n");
+printf("Department\t:Lost and Found\n");
+printf("System\t\t:Lost & Found Registry\n");
+printf("Location\t:Bashundhara,Dhaka\n\n");
+   
     printf("=====================================================================\n");
-printf("                SYSTEM MENU                                 \n");
+printf("                      SYSTEM MENU\n");
     printf("==========================================================================\n\n");
 
 printf("1.Report Lost Item\n");
@@ -29,7 +28,7 @@ printf("3. Search Item Status\n");
 printf("4.Display All Registered Items\n");
 printf("5.Claim a Found Item\n");
 printf("6.Contact Student Affairs\n");
-printf("7. Exit System\n\n");
+printf("7. Exit\n\n");
 
 
 
@@ -41,7 +40,7 @@ printf("7. Exit System\n\n");
     printf("ID\tITEM NAME\t\tLOCATION\tSTATUS\tCATEGORY\t\n\n");
 
 
-// Lost Items
+
 printf("101\tStudent ID Card\t\tLibrary\t\tLost\tDocument\t\n");
 
 printf("102\tBlack Backpack\t\tNAC-503\t\tLost\tBag\t\n");
@@ -54,10 +53,8 @@ printf("105\tCalculator\t\tStudy Hal l\tLost\tElectronics\t\n");
 
 printf("106\tBlack Wallet\t\tSAC 407\t\tLost\tPersonal \t\n");
 
-printf("107\t AirPods Case\t\tLibrary \tLost \tElectronics\t\n");
+printf("107\tAirPods Case\t\tLibrary \tLost \tElectronics\t\n");
 
-
-// Found Items
 printf("108\t Leather Wallet\t\tCafeteria\t Found\tPersonal\t\n");
 
 printf("109\t Calculator\t\tStudy Hall \tFound\tElectronics\t \n");
